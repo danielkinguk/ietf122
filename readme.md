@@ -1,1 +1,1 @@
-Repositry for IETF 122 documents and materials.
+Repository for IETF 122 documents and materials.
